@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🎓 Graduate student at the University of West Florida studying cybersecurity.
-- 🔭 I’m currently working on multiple projects related to web and application security.
+- 🎓 MS Cybersecurity and BS Software Design from the University of West Florida.
+- 🔭 I’m currently working on multiple projects related to web and desktop application security.
 - 🌱 I’m currently learning about innovative applications of integrating human behavior in threat analysis.
 - 😄 Pronouns: He/Him
 
