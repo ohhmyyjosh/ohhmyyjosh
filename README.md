@@ -48,14 +48,6 @@ Aggregation and summary visualization tooling for research data — takes raw re
 
 `Python` `Matplotlib` `Pandas`
 
-<!-- Add more projects below as needed -->
-<!--
-#### Project Name
-Brief description of what it does and why it matters.
-
-`tech` `tags` `here`
--->
-
 ---
 
 ### 🧭 Current Focus
@@ -70,8 +62,7 @@ Brief description of what it does and why it matters.
 
 *"Make it work, make it right, make it fast."*
 
-<!-- Replace with your actual links -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpatterson-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joshpatterson.contact@gmail.com)
 
 </div>
