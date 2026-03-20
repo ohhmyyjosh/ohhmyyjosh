@@ -61,6 +61,7 @@ Aggregation and summary visualization tooling for research data — takes raw re
 <div align="center">
 
 *"Make it work, make it right, make it fast."*
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=githubpages&logoColor=white)](https://ohhmyyjosh.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jpatterson-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joshpatterson.contact@gmail.com)
